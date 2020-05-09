@@ -1,0 +1,63 @@
+h1{
+    color:rgb(34, 202, 214);
+    padding-left: 5px;   
+    padding-right:5px;
+    border-bottom:3px solid rgb(47, 173, 182);
+    width:15%;
+    margin-bottom: 1%;
+}
+h3{
+    color: rgb(156, 156, 243);
+    border-bottom: 2px solid rgb(156, 156, 243);
+    width: 235px;
+    margin-top: 1%;
+}
+
+#main{
+    color:black;
+    background-color: powderblue;
+    text-align:center;
+    margin-left:150px;
+    padding:10px;
+    border:1.5px solid powderblue;
+    width:75%;
+}
+
+body{ 
+    background-image:url(images/topography.png)
+}
+
+#my-logo{
+    width:5%;   
+    height: auto;   
+}
+
+#center-align{
+    text-align:center;
+}
+
+#middle{
+    text-align:center;
+}
+
+nav{
+    background-color:rgb(230, 215, 193);
+    height:100px;
+}
+
+.navbar-div{
+    display:inline;
+}
+
+#menus{
+    float:right;
+    text-align:center;
+    text-size-adjust: 50%;
+    margin-top:35px;
+    margin-right:50px;
+}
+
+#my-logo{
+    margin-left:15px;
+    margin-top:10px;
+}
